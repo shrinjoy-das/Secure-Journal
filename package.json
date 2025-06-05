@@ -1,0 +1,45 @@
+{
+  "name": "journal-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "build": {
+    "appId": "com.yourdomain.journalapp",
+    "productName": "Secure Journal",
+    "files": [
+      "**/*"
+    ],
+    "mac": {
+      "icon": "assets/icon.icns",
+      "category": "public.app-category.productivity"
+    },
+    "win": {
+      "icon": "assets/icon.ico"
+    },
+    "linux": {
+      "icon": "assets/icon.png",
+      "category": "Office"
+    }
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dist": "electron-builder"
+  },
+  "keywords": [
+    "journal",
+    "diary",
+    "electron",
+    "desktop-app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "A simple desktop journaling application built with Electron",
+  "devDependencies": {
+    "electron": "^36.4.0",
+    "electron-builder": "^26.0.12"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "crypto-js": "^4.2.0"
+  }
+}
