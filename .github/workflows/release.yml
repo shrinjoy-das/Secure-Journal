@@ -27,3 +27,10 @@ jobs:
         with:
           name: ${{ runner.os }}-artifacts
           path: dist/*
+
+      - name: Publish to Snap Store
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          # Add the command for publishing here, e.g.,
+          echo "Publishing to Snap Store..."
