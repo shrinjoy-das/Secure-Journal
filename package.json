@@ -8,6 +8,7 @@
     "files": [
       "**/*"
     ],
+    "publish": "never",
     "mac": {
       "icon": "assets/icon.icns",
       "category": "public.app-category.productivity"
