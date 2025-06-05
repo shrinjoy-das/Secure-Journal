@@ -4,7 +4,7 @@
 
 **A modern, privacy-first, cross-platform journaling app — built with Electron, featuring full data encryption, calendar view, autosave, and more.**
 
-![screenshot-placeholder](#)
+![Main Screen (Dark Mode)](assets/screenshots/d2.png)
 
 ---
 
@@ -164,9 +164,12 @@ The app features a beautiful dark theme designed for comfortable journaling:
 
 ## 📷 Screenshots
 
-> _Add screenshots here!_  
-> Example:  
-> ![Main Screen](assets/screenshots/main.png)
+[Log-in Screen (Dark Mode)](assets/screenshots/d1.png)
+[Main Screen (Dark Mode)](assets/screenshots/d2.png)
+[Settings Screen (Dark Mode)](assets/screenshots/d3.png)
+[Log-in Screen (Light Mode)](assets/screenshots/w1.png)
+[Main Screen (Light Mode)](assets/screenshots/w2.png)
+[Settings Screen (Light Mode)](assets/screenshots/w3.png)
 
 ---
 
