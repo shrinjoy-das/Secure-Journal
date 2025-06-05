@@ -43,9 +43,9 @@
     "crypto-js": "^4.2.0"
   }
   "publish": [
-  {
-    "provider": "generic",
-    "url": " "
-  }
-]
+    {
+      "provider": "generic",
+      "url": " "
+    }
+  ]
 }
