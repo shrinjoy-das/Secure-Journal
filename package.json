@@ -8,7 +8,6 @@
     "files": [
       "**/*"
     ],
-    "publish": "never",
     "mac": {
       "icon": "assets/icon.icns",
       "category": "public.app-category.productivity"
@@ -42,11 +41,5 @@
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "crypto-js": "^4.2.0"
-  },
-  "publish": [
-    {
-      "provider": "generic",
-      "url": " "
-    }
-  ]
+  }
 }
