@@ -31,7 +31,7 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/secure-journal.git
+git clone https://github.com/shrinjoy-das/secure-journal.git
 cd secure-journal
 npm install
 npm start
