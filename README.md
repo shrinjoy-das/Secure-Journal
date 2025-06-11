@@ -181,6 +181,8 @@ PRs welcome! Please open an issue to discuss improvements or bugs.
 
 ## ⚖️ License
 
-MIT
+[MIT License](https://github.com/shrinjoy-das/Secure-Journal/blob/main/LICENCE.txt)
+
+This repository is open-source under the MIT license. You’re free to use, modify, and distribute it under those terms. Enjoy building!
 
 ---
